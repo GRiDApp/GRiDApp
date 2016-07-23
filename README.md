@@ -1,2 +1,0 @@
-# GRiDApp
-smart.space.
